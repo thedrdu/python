@@ -1,5 +1,7 @@
-#This is my first python program - High - Low game
-#author Jeffrey Du @1/20/2016
+#Author: Jeffrey Du
+#Last Modified 1/17/2016
+#This is my first python program: A High - Low game
+
 print "Welcome to High-Low!"
 from random import randint
 N = (randint(1,100))
