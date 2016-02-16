@@ -3,6 +3,7 @@ def start():
     print "You wake up in a cabin. There is a door and a large stick on the wall. What would you like to do?"
     print "Options: 'Take stick' or 'leave'"
 
+
     x = raw_input('What would you like to do?')
     if x.lower() != "take stick":
         print "You are about to leave, but you realize that a stick would probably come in handy."
